@@ -12,7 +12,8 @@
   "dependencies": {
     "@mlc-ai/web-llm": "^0.2.84",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.18",
